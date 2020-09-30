@@ -284,9 +284,10 @@ The analysis are completed much faster with the refactored code. Run times for e
 
 ### Run-time for refactored code in 2017 and 2018
 
+![Refactored Run-Time 2017](https://github.com/pimchanyachitsanga/stock-analysis/blob/master/VBA_Challenge_2017.PNG) 
 
+![Refactored Run-Time 2018](https://github.com/pimchanyachitsanga/stock-analysis/blob/master/VBA_Challenge_2018.PNG) 
 
+### Advantages and disadvantages of refactoring code in general 
 
-
-There is a detailed statement on the advantages and disadvantages of refactoring code in general (3 pt).
-There is a detailed statement on the advantages and disadvantages of the original and refactored VBA script (3 pt).
+### Advantages and disadvantages of the original and refactored VBA script 
