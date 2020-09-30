@@ -278,9 +278,9 @@ The analysis are completed much faster with the refactored code. Run times for e
 
 ### Run-time for initial code in 2017 and 2018
 
-!(https://github.com/pimchanyachitsanga/stock-analysis/master/Green_Stock_2017.png) 
+!(https://github.com/pimchanyachitsanga/stock-analysis/blob/master/Green_Stock_2017.PNG) 
 
-!(https://github.com/pimchanyachitsanga/stock-analysis/master/Green_Stock_2018.png) 
+!(https://github.com/pimchanyachitsanga/stock-analysis/blob/master/Green_Stock_2018.PNG) 
 
 ### Run-time for refactored code in 2017 and 2018
 
