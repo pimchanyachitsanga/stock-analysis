@@ -16,7 +16,7 @@ The purpose of this project is to create a more efficient way to analyze at mult
 
 I have refactored the initial code to include a for loop through the data and collect all of the information all at once. In order to do this, I created a ticker Index and created three output arrays; tickerVolumes, tickerStartingPrices, and tickerEndingPrices. Then loop through the arrays to output the Ticker, Total Daily Volume, and Return by by using a variable called the tickerIndex.
 
-#### Refactored Code
+### Refactored Code
 
 Sub AllStocksAnalysisRefactored()
     
@@ -151,7 +151,7 @@ Sub AllStocksAnalysisRefactored()
 
 End Sub
 
-#### Initial Code
+### Initial Code
 
 Sub AllStocksAnalysis()
 
@@ -278,9 +278,9 @@ The analysis are completed much faster with the refactored code. Run times for e
 
 ### Run-time for initial code in 2017 and 2018
 
-![2017 Original Run-time](https://github.com/pimchanyachitsanga/stock-analysis/master/Green_Stock_2017.png) 
+!(https://github.com/pimchanyachitsanga/stock-analysis/master/Green_Stock_2017.png) 
 
-![2018 Original Run-time](https://github.com/pimchanyachitsanga/stock-analysis/master/Green_Stock_2018.png) 
+!(https://github.com/pimchanyachitsanga/stock-analysis/master/Green_Stock_2018.png) 
 
 ### Run-time for refactored code in 2017 and 2018
 
