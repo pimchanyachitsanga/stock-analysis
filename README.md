@@ -8,8 +8,10 @@ A friend of mine, Steve has asked me to perform a green stock analysis (portfoli
 
 ### Purpose
 
-Results
+## Results
+
 The analysis is well described with screenshots and code (4 pt).
-Summary
+
+### Summary
 There is a detailed statement on the advantages and disadvantages of refactoring code in general (3 pt).
 There is a detailed statement on the advantages and disadvantages of the original and refactored VBA script (3 pt).
